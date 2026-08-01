@@ -1,1 +1,105 @@
+name: Repair Spanish course audio
 
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spanish-course-audio-repair
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version | head -n 1
+
+      - name: Rebuild all MP3 files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          repaired=0
+
+          for folder in audio/morning audio/practice; do
+            for file in "$folder"/day*.mp3; do
+              if [ ! -f "$file" ]; then
+                echo "ОШИБКА: не найден $file"
+                exit 1
+              fi
+
+              temp="${file%.mp3}.repaired.mp3"
+
+              echo "Исправляю: $file"
+
+              # Полностью декодируем исходный составной MP3 и создаём
+              # один стандартный непрерывный MP3-поток.
+              ffmpeg \
+                -hide_banner \
+                -loglevel error \
+                -y \
+                -fflags +genpts \
+                -i "$file" \
+                -map_metadata -1 \
+                -vn \
+                -ac 1 \
+                -ar 44100 \
+                -c:a libmp3lame \
+                -b:a 128k \
+                -id3v2_version 3 \
+                -write_xing 1 \
+                "$temp"
+
+              duration="$(ffprobe \
+                -v error \
+                -show_entries format=duration \
+                -of default=noprint_wrappers=1:nokey=1 \
+                "$temp")"
+
+              python3 - "$file" "$duration" <<'PY'
+import sys
+name = sys.argv[1]
+duration = float(sys.argv[2])
+if duration < 2.0:
+    raise SystemExit(f"ОШИБКА: после исправления {name} длится только {duration:.2f} сек.")
+print(f"Готово: {name} — {duration:.2f} сек.")
+PY
+
+              mv "$temp" "$file"
+              repaired=$((repaired + 1))
+            done
+          done
+
+          if [ "$repaired" -ne 60 ]; then
+            echo "ОШИБКА: ожидалось 60 MP3, обработано $repaired"
+            exit 1
+          fi
+
+          echo "УСПЕХ: исправлены все 60 MP3."
+
+      - name: Save repaired audio
+        run: |
+          if git diff --quiet -- audio; then
+            echo "Изменений нет."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add audio
+          git commit -m "Repair MP3 compatibility for Telegram clients"
+          git pull --rebase
+          git push
