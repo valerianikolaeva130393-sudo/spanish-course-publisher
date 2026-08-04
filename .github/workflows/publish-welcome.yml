@@ -1,0 +1,53 @@
+name: Publish welcome post
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "test — опубликовать без закрепления; official — опубликовать и закрепить"
+        required: true
+        type: choice
+        options: [test, official]
+        default: test
+
+permissions:
+  contents: read
+
+concurrency:
+  group: spanish-course-welcome
+  cancel-in-progress: false
+
+jobs:
+  publish-welcome:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v5
+
+      - name: Use Node.js 24
+        uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+          package-manager-cache: false
+
+      - name: Check welcome files
+        run: |
+          test -f "src/publish-welcome.mjs" || (echo "ОШИБКА: нет src/publish-welcome.mjs" && exit 1)
+          test -f "images/welcome-course.jpg" || (echo "ОШИБКА: нет images/welcome-course.jpg" && exit 1)
+          node --check src/publish-welcome.mjs
+
+      - name: Validate settings
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+        run: |
+          test -n "$BOT_TOKEN" || (echo "ОШИБКА: нет Secret BOT_TOKEN" && exit 1)
+          test -n "$CHANNEL_ID" || (echo "ОШИБКА: нет Secret CHANNEL_ID" && exit 1)
+
+      - name: Publish welcome post
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          RUN_MODE: ${{ inputs.mode }}
+        run: node src/publish-welcome.mjs
