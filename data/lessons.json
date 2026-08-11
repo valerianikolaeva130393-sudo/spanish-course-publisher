@@ -1,0 +1,679 @@
+[
+  {
+    "day": 1,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 1\nPerdona — Извини\n🎬 История\nУтро в Мадриде.\nЯсмин спешит на работу и случайно задевает мужчину возле кафе.\n\n👩 Yasmin\nHola.\nPerdona.\n👨 Adrián\nNo pasa nada.\n\nЯсмин улыбается и идёт дальше.\n🗣 Новые слова\n🔹 Hola — привет\n🔹 Perdona — извини\n🔹 No pasa nada — ничего страшного\n⭐ Запомните\nPerdona говорят одному человеку в обычной ситуации.\nPerdón — более короткое и универсальное «простите».\n🎧 Послушайте и повторите\nHola.\nPerdona.\nNo pasa nada.",
+      "audio": "audio/morning/day01.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 1\n🎧 Послушайте и повторите\nPerdona.\nNo pasa nada.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day01.mp3",
+      "poll": {
+        "question": "Что сказать, если вы случайно задели человека?",
+        "options": [
+          "Hola",
+          "Perdona",
+          "Gracias"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 2,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 2\nGracias — Спасибо\n🎬 История\nУтром Ясмин снова проходит возле кафе.\nИз её сумки выпадает карточка. Вчерашний незнакомец поднимает её.\n\n👩 Yasmin\nGracias.\nMuchas gracias.\n👨 Adrián\nDe nada.\n\nОни узнают друг друга и улыбаются.\n🗣 Новые слова\n🔹 Gracias — спасибо\n🔹 Muchas gracias — большое спасибо\n🔹 De nada — не за что\n⭐ Запомните\nGracias подходит почти для любой ситуации.\nЧтобы сказать «большое спасибо»:\nMuchas gracias.\n🎧 Послушайте и повторите\nGracias.\nMuchas gracias.\nDe nada.",
+      "audio": "audio/morning/day02.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 2\n🎧 Послушайте и повторите\nMuchas gracias.\nDe nada.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day02.mp3",
+      "poll": {
+        "question": "Что ответить на «Gracias»?",
+        "options": [
+          "De nada",
+          "Perdona",
+          "Hola"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 3,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 3\nOtra vez — Снова\n🎬 История\nНа следующий день они встречаются у того же кафе.\nМужчина улыбается первым:\n\n👨 Adrián\nOtra vez.\nHola, otra vez.\n\nЯсмин смеётся:\n\n👩 Yasmin\nHola.\nBien.\n\n🗣 Новые слова\n🔹 Otra vez — снова\n🔹 Hola, otra vez — снова привет\n🔹 Bien — хорошо\n⭐ Запомните\nOtra vez используют, когда что-то происходит повторно.\nHola, otra vez — естественное «Снова привет».\n🎧 Послушайте и повторите\nOtra vez.\nHola, otra vez.\nHola.\nBien.",
+      "audio": "audio/morning/day03.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 3\n🎧 Послушайте и повторите\nHola, otra vez.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day03.mp3",
+      "poll": {
+        "question": "Что означает «Hola, otra vez»?",
+        "options": [
+          "До свидания",
+          "Снова привет",
+          "Большое спасибо"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 4,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 4\n¿Qué tal? — Как дела?\n🎬 История\nУ кафе они встречаются снова.\nМужчина останавливается:\n\n👨 Adrián\nHola. ¿Qué tal?\n👩 Yasmin\nBien.\n\nЯсмин немного удивляется, но отвечает с улыбкой.\n🗣 Новые слова\n🔹 Hola. ¿Qué tal? — привет, как дела?\n⭐ Запомните\n¿Qué tal? — короткое и распространённое «Как дела?».\nТак можно обратиться и к знакомому, и к новому собеседнику.\n🎧 Послушайте и повторите\nHola. ¿Qué tal?\nBien.",
+      "audio": "audio/morning/day04.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 4\n🎧 Послушайте и повторите\n¿Qué tal?\nBien.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day04.mp3",
+      "poll": {
+        "question": "Что означает «¿Qué tal?»?",
+        "options": [
+          "Как дела?",
+          "Как тебя зовут?",
+          "Откуда ты?"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 5,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 5\nMuy bien — Очень хорошо\n🎬 История\nЯсмин отвечает:\n\n👩 Yasmin\nMuy bien.\n¿Y tú?\n\nМужчина кивает:\n\n👨 Adrián\nBien, gracias.\n\nРазговор длится всего несколько секунд, но теперь они уже не просто незнакомцы.\n🗣 Новые слова\n🔹 Muy bien — очень хорошо\n🔹 ¿Y tú? — а ты?\n🔹 Bien, gracias — хорошо, спасибо\n⭐ Запомните\nПосле ответа можно вернуть вопрос:\n¿Y tú? — А ты?\nЭто помогает легко продолжить разговор.\n🎧 Послушайте и повторите\nMuy bien.\n¿Y tú?\nBien, gracias.",
+      "audio": "audio/morning/day05.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 5\n🎧 Послушайте и повторите\n¿Qué tal?\nMuy bien. ¿Y tú?\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day05.mp3",
+      "poll": {
+        "question": "— ¿Qué tal? — Muy bien. ______",
+        "options": [
+          "¿Y tú?",
+          "Perdona",
+          "De nada"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 6,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 6\nRepaso — Повторение\n🎬 История\nЯсмин снова проходит мимо кафе.\nМужчина уже стоит у двери.\n\n👨 Adrián\nHola. ¿Qué tal?\n👩 Yasmin\nMuy bien. ¿Y tú?\n👨 Adrián\nBien, gracias.\n\n🗣 Новые слова\n🔹 Muy bien. ¿Y tú? — очень хорошо, а ты?\n⭐ Запомните\nНа вопрос ¿Qué tal? можно ответить коротко:\nBien.\nMuy bien.\nBien, gracias.\n🎧 Послушайте и повторите\nHola. ¿Qué tal?\nMuy bien. ¿Y tú?\nBien, gracias.",
+      "audio": "audio/morning/day06.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 6\n🎧 Послушайте и повторите\nHola. ¿Qué tal?\nMuy bien. ¿Y tú?\nBien, gracias.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day06.mp3",
+      "poll": {
+        "question": "В каком порядке идут реплики?",
+        "options": [
+          "1 → 2 → 3",
+          "2 → 3 → 1",
+          "3 → 1 → 2"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 7,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 7\nLa primera semana — Первая неделя\n🎬 История\nСегодня Ясмин никуда не спешит.\nУвидев знакомого мужчину, она останавливается первой:\n\n👩 Yasmin\nHola. ¿Qué tal?\n👨 Adrián\nMuy bien, gracias. ¿Y tú?\n👩 Yasmin\nBien.\n\nОни улыбаются, но ещё не знают имён друг друга.\n🗣 Новые слова\n🔹 Muy bien, gracias. ¿Y tú? — очень хорошо, спасибо, а ты?\n⭐ Сегодня вы уже умеете\nпоздороваться;\nизвиниться;\nпоблагодарить;\nспросить, как дела;\nкоротко ответить.\n🎧 Послушайте и повторите\nHola. ¿Qué tal?\nMuy bien, gracias. ¿Y tú?\nBien.",
+      "audio": "audio/morning/day07.mp3",
+      "photo": "images/day07.jpg"
+    },
+    "practice": {
+      "text": "☀️ Практика • День 7\n🎧 Послушайте и повторите\nHola.\nPerdona.\nGracias.\n¿Qué tal?\nMuy bien.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day07.mp3",
+      "poll": {
+        "question": "Как спросить «Как дела?»?",
+        "options": [
+          "Gracias",
+          "Perdona",
+          "¿Qué tal?"
+        ],
+        "correct_option_id": 2
+      }
+    }
+  },
+  {
+    "day": 8,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 8\nSoy Yasmin — Я Ясмин\n🎬 История\nОни снова встречаются возле кафе.\nЯсмин улыбается и показывает на себя:\n\n👩 Yasmin\nSoy Yasmin.\n👨 Adrián\nHola, Yasmin.\n\nМужчина удивлён, но явно рад знакомству.\n🗣 Новые слова\n🔹 Soy Yasmin — я Ясмин\n🔹 Hola, Yasmin — привет, Ясмин\n⭐ Запомните\nЧтобы назвать своё имя, можно сказать:\nSoy + имя.\nНапример:\nSoy Elena.\n🎧 Послушайте и повторите\nSoy Yasmin.\nHola, Yasmin.",
+      "audio": "audio/morning/day08.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 8\n🎧 Послушайте и повторите\nSoy Yasmin.\nSoy…\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day08.mp3",
+      "poll": {
+        "question": "Что означает «Soy Elena»?",
+        "options": [
+          "Меня зовут Елена",
+          "Я — Елена",
+          "Я из Елены"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 9,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 9\n¿Cómo te llamas? — Как тебя зовут?\n🎬 История\nЯсмин представилась, но мужчина пока молчит.\nОна спрашивает:\n\n👩 Yasmin\n¿Cómo te llamas?\n👨 Adrián\nAdrián.\n\nОн улыбается и готовится ответить.\n🗣 Новые слова\n🔹 ¿Cómo te llamas? — как тебя зовут?\n🔹 Adrián — Адриан\n⭐ Запомните\n¿Cómo te llamas? говорят человеку, с которым общаются на «ты».\n🎧 Послушайте и повторите\n¿Cómo te llamas?\nAdrián.",
+      "audio": "audio/morning/day09.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 9\n🎧 Послушайте и повторите\n¿Cómo te llamas?\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day09.mp3",
+      "poll": {
+        "question": "Как спросить имя собеседника?",
+        "options": [
+          "¿Qué tal?",
+          "¿Cómo te llamas?",
+          "¿De dónde eres?"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 10,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 10\nMe llamo Adrián — Меня зовут Адриан\n🎬 История\nМужчина отвечает:\n\n👨 Adrián\nMe llamo Adrián.\n👩 Yasmin\nMucho gusto.\n\nТеперь они наконец знают имена друг друга.\n🗣 Новые слова\n🔹 Me llamo Adrián — меня зовут Адриан\n🔹 Mucho gusto — очень приятно\n⭐ Запомните\nЕсть два простых способа представиться:\nSoy Adrián.\nMe llamo Adrián.\nОба варианта естественны.\n🎧 Послушайте и повторите\nMe llamo Adrián.\nMucho gusto.",
+      "audio": "audio/morning/day10.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 10\n🎧 Послушайте и повторите\nMe llamo Adrián.\nMe llamo…\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day10.mp3",
+      "poll": {
+        "question": "Me ______ Carlos.",
+        "options": [
+          "soy",
+          "llamo",
+          "vivo"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 11,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 11\nEncantada — Очень приятно\n🎬 История\nЯсмин протягивает руку:\n\n👩 Yasmin\nEncantada.\n\nАдриан отвечает:\n\n👨 Adrián\nEncantado.\n\nОни впервые представились друг другу по-настоящему.\n🗣 Новые слова\n🔹 Encantada — очень приятно (говорит женщина)\n🔹 Encantado — очень приятно (говорит мужчина)\n⭐ Запомните\nЖенщина обычно говорит:\nEncantada.\nМужчина:\nEncantado.\nУниверсальный вариант:\nMucho gusto.\n🎧 Послушайте и повторите\nEncantada.\nEncantado.",
+      "audio": "audio/morning/day11.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 11\n🎧 Послушайте и повторите\nEncantada.\nEncantado.\nMucho gusto.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day11.mp3",
+      "poll": {
+        "question": "Что говорит женщина при знакомстве?",
+        "options": [
+          "Encantada",
+          "Encantado",
+          "Gracias"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 12,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 12\n¿De dónde eres? — Откуда ты?\n🎬 История\nРазговор продолжается.\nЯсмин спрашивает:\n\n👩 Yasmin\n¿Dónde?\n¿De dónde eres?\n👨 Adrián\nDe Madrid.\n\nАдриан смотрит на улицу и улыбается.\n🗣 Новые слова\n🔹 ¿Dónde? — где?\n🔹 ¿De dónde eres? — откуда ты?\n🔹 De Madrid — из Мадрида\n⭐ Запомните\n¿Dónde? — где?\n¿De dónde? — откуда?\nПредлог de меняет смысл вопроса.\n🎧 Послушайте и повторите\n¿Dónde?\n¿De dónde eres?\nDe Madrid.",
+      "audio": "audio/morning/day12.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 12\n🎧 Послушайте и повторите\n¿Dónde?\n¿De dónde?\n¿De dónde eres?\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day12.mp3",
+      "poll": {
+        "question": "Как спросить «Откуда ты?»?",
+        "options": [
+          "¿Dónde eres?",
+          "¿De dónde eres?",
+          "¿Cómo eres?"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 13,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 13\nSoy de Madrid — Я из Мадрида\n🎬 История\nАдриан отвечает:\n\n👨 Adrián\nSoy de Madrid. ¿Y tú?\n\nЯсмин смеётся:\n\n👩 Yasmin\nYo también.\n\nУ них находится первая общая тема.\n🗣 Новые слова\n🔹 Soy de Madrid. ¿Y tú? — я из Мадрида, а ты?\n🔹 Yo también — я тоже\n⭐ Запомните\nЧтобы сказать, откуда вы:\nSoy de + место.\nНапример:\nSoy de España.\n🎧 Послушайте и повторите\nSoy de Madrid. ¿Y tú?\nYo también.",
+      "audio": "audio/morning/day13.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 13\n🎧 Послушайте и повторите\nSoy de Madrid.\nSoy de…\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day13.mp3",
+      "poll": {
+        "question": "Как сказать «Я из Мадрида»?",
+        "options": [
+          "Vivo Madrid",
+          "Soy de Madrid",
+          "Me llamo Madrid"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 14,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 14\nMucho gusto — Очень приятно\n🎬 История\nУ кафе они снова здороваются.\nСегодня разговор уже звучит легко:\n\n👩 Yasmin\n¿Cómo te llamas?\n👨 Adrián\nMe llamo Adrián. ¿Y tú?\n👩 Yasmin\nSoy Yasmin.\n👨 Adrián\nMucho gusto.\n\n🗣 Новые слова\n🔹 Me llamo Adrián. ¿Y tú? — меня зовут Адриан, а ты?\n⭐ Сегодня вы уже умеете\nназвать своё имя;\nспросить имя собеседника;\nсказать «Очень приятно»;\nспросить, откуда человек;\nсказать, откуда вы.\n🎧 Послушайте и повторите\n¿Cómo te llamas?\nMe llamo Adrián. ¿Y tú?\nSoy Yasmin.\nMucho gusto.",
+      "audio": "audio/morning/day14.mp3",
+      "photo": "images/day14.jpg"
+    },
+    "practice": {
+      "text": "☀️ Практика • День 14\n🎧 Послушайте и повторите\n¿Cómo te llamas?\nMe llamo Adrián. ¿Y tú?\nSoy Yasmin.\nMucho gusto.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day14.mp3",
+      "poll": {
+        "question": "Что означает «Mucho gusto»?",
+        "options": [
+          "Очень приятно",
+          "До завтра",
+          "Как дела?"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 15,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 15\n¿Tienes tiempo? — У тебя есть время?\n🎬 История\nЯсмин снова появляется возле кафе.\nАдриан спрашивает:\n\n👨 Adrián\n¿Tienes tiempo?\n👩 Yasmin\nSí, ahora sí.\n\nЯсмин смотрит на часы. Сегодня она не опаздывает.\n🗣 Новые слова\n🔹 ¿Tienes tiempo? — у тебя есть время?\n🔹 Sí, ahora sí — да, сейчас есть\n⭐ Запомните\nTiempo может означать время или погоду.\nВ вопросе ¿Tienes tiempo? речь идёт о свободном времени.\n🎧 Послушайте и повторите\n¿Tienes tiempo?\nSí, ahora sí.",
+      "audio": "audio/morning/day15.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 15\n🎧 Послушайте и повторите\n¿Tienes tiempo?\nSí, ahora sí.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day15.mp3",
+      "poll": {
+        "question": "Что означает «¿Tienes tiempo?»?",
+        "options": [
+          "У тебя есть время?",
+          "Ты знаешь время?",
+          "Какая погода?"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 16,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 16\nUn café — Один кофе\n🎬 История\nАдриан показывает на кафе:\n\n👨 Adrián\n¿Un café?\n\nЯсмин улыбается:\n\n👩 Yasmin\nSí, gracias.\n\nОни впервые заходят внутрь вместе.\n🗣 Новые слова\n🔹 ¿Un café? — кофе?\n🔹 Sí, gracias — да, спасибо\n⭐ Запомните\nВ разговоре можно предложить напиток очень коротко:\n¿Un café?\nИнтонация превращает фразу в вопрос.\n🎧 Послушайте и повторите\n¿Un café?\nSí, gracias.",
+      "audio": "audio/morning/day16.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 16\n🎧 Послушайте и повторите\n¿Un café?\nSí, gracias.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day16.mp3",
+      "poll": {
+        "question": "Что означает предложение «¿Un café?»?",
+        "options": [
+          "Вам предлагают кофе",
+          "Вас спрашивают о работе",
+          "С вами прощаются"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 17,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 17\nPor favor — Пожалуйста\n🎬 История\nК ним подходит официант.\nЯсмин говорит:\n\n👩 Yasmin\nUn café, por favor.\n👨 Adrián\nPara mí también.\n\nАдриан заказывает то же самое.\n🗣 Новые слова\n🔹 Un café, por favor — один кофе, пожалуйста\n🔹 Para mí también — мне тоже\n⭐ Запомните\nPor favor ставят после просьбы или заказа:\nUn café, por favor.\n🎧 Послушайте и повторите\nUn café, por favor.\nPara mí también.",
+      "audio": "audio/morning/day17.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 17\n🎧 Послушайте и повторите\nUn café, por favor.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day17.mp3",
+      "poll": {
+        "question": "Как правильно заказать кофе?",
+        "options": [
+          "Café un favor por",
+          "Un café, por favor",
+          "Por café un favor"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 18,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 18\nUno o dos — Один или два\n🎬 История\nОфициант спрашивает:\n\n🧑‍🍳 Официант\n¿Uno o dos?\n\nАдриан отвечает:\n\n👨 Adrián\nDos cafés, por favor.\n\nЯсмин кивает.\n🗣 Новые слова\n🔹 ¿Uno o dos? — один или два?\n🔹 Dos cafés, por favor — два кофе, пожалуйста\n⭐ Запомните\nПосле числа dos слово ставится во множественном числе:\nun café\ndos cafés\n🎧 Послушайте и повторите\n¿Uno o dos?\nDos cafés, por favor.",
+      "audio": "audio/morning/day18.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 18\n🎧 Послушайте и повторите\nUno.\nDos.\nUn café.\nDos cafés.\nDos cafés, por favor.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day18.mp3",
+      "poll": {
+        "question": "Как заказать два кофе?",
+        "options": [
+          "Un cafés, por favor",
+          "Dos café, por favor",
+          "Dos cafés, por favor"
+        ],
+        "correct_option_id": 2
+      }
+    }
+  },
+  {
+    "day": 19,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 19\n¿Dónde vives? — Где ты живёшь?\n🎬 История\nКофе уже на столе.\nАдриан спрашивает:\n\n👨 Adrián\n¿Dónde vives?\n👩 Yasmin\nVivo cerca.\n\nЯсмин показывает в сторону соседней улицы.\n🗣 Новые слова\n🔹 ¿Dónde vives? — где ты живёшь?\n🔹 Vivo cerca — я живу рядом\n⭐ Запомните\n¿Dónde vives? — где ты живёшь?\nVivo… — я живу…\n🎧 Послушайте и повторите\n¿Dónde vives?\nVivo cerca.",
+      "audio": "audio/morning/day19.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 19\n🎧 Послушайте и повторите\n¿Dónde vives?\nVivo cerca.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day19.mp3",
+      "poll": {
+        "question": "Как спросить «Где ты живёшь?»?",
+        "options": [
+          "¿Dónde vives?",
+          "¿De dónde eres?",
+          "¿Cómo te llamas?"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 20,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 20\nVivo con una amiga — Я живу с подругой\n🎬 История\nЯсмин объясняет:\n\n👩 Yasmin\nVivo con una amiga.\n👨 Adrián\nAh, bien.\n\nЯсмин смеётся и качает головой.\n🗣 Новые слова\n🔹 Vivo con una amiga — я живу с подругой\n🔹 Ah, bien — а, хорошо\n⭐ Запомните\nAmiga — подруга.\nAmigo — друг.\nОкончание часто подсказывает, о мужчине или женщине идёт речь.\n🎧 Послушайте и повторите\nVivo con una amiga.\nAh, bien.",
+      "audio": "audio/morning/day20.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 20\n🎧 Послушайте и повторите\nAmigo.\nAmiga.\nVivo con una amiga.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day20.mp3",
+      "poll": {
+        "question": "Что означает «Vivo con una amiga»?",
+        "options": [
+          "Я живу рядом с кафе",
+          "Я живу с подругой",
+          "Я работаю с подругой"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 21,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 21\nEl cuaderno — Блокнот\n🎬 История\nАдриан достаёт небольшой блокнот и карандаш.\nОн быстро рисует фасад здания напротив.\n\n👩 Yasmin\n¿Un cuaderno?\n👨 Adrián\nSí, para el trabajo.\n\nАдриан кивает.\n🗣 Новые слова\n🔹 ¿Un cuaderno? — блокнот?\n🔹 Sí, para el trabajo — да, для работы\n⭐ Запомните\nCuaderno — блокнот или тетрадь.\nLibreta — небольшой блокнот.\n🎧 Послушайте и повторите\n¿Un cuaderno?\nSí, para el trabajo.",
+      "audio": "audio/morning/day21.mp3",
+      "photo": "images/day21.jpg"
+    },
+    "practice": {
+      "text": "☀️ Практика • День 21\n🎧 Послушайте и повторите\nCuaderno.\nLápiz.\nCuaderno y lápiz.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day21.mp3",
+      "poll": {
+        "question": "Что лежит перед Адрианом?",
+        "options": [
+          "Cuaderno y lápiz",
+          "Café y agua",
+          "Casa y oficina"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 22,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 22\nSoy arquitecto — Я архитектор\n🎬 История\nЯсмин смотрит на рисунок:\n\n👩 Yasmin\n¿A qué te dedicas?\n\nАдриан отвечает:\n\n👨 Adrián\nSoy arquitecto.\n\nТеперь блокнот становится понятной частью его работы.\n🗣 Новые слова\n🔹 ¿A qué te dedicas? — чем ты занимаешься?\n🔹 Soy arquitecto — я архитектор\n⭐ Запомните\nПосле soy профессия обычно употребляется без артикля:\nSoy arquitecto.\n🎧 Послушайте и повторите\n¿A qué te dedicas?\nSoy arquitecto.",
+      "audio": "audio/morning/day22.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 22\n🎧 Послушайте и повторите\n¿A qué te dedicas?\nSoy arquitecto.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day22.mp3",
+      "poll": {
+        "question": "Адриан говорит: «Soy ________»",
+        "options": [
+          "arquitecto",
+          "marketing",
+          "oficina"
+        ],
+        "correct_option_id": 0
+      }
+    }
+  },
+  {
+    "day": 23,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 23\nTrabajo en marketing — Я работаю в маркетинге\n🎬 История\nАдриан спрашивает:\n\n👨 Adrián\n¿A qué te dedicas?\n\nЯсмин отвечает:\n\n👩 Yasmin\nTrabajo en marketing.\n\nОна рассказывает, что сегодня у неё много дел в офисе.\n🗣 Новые слова\n🔹 Trabajo en marketing — я работаю в маркетинге\n⭐ Запомните\nДля сферы работы используют:\nTrabajo en…\nНапример:\nTrabajo en marketing.\n🎧 Послушайте и повторите\n¿A qué te dedicas?\nTrabajo en marketing.",
+      "audio": "audio/morning/day23.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 23\n🎧 Послушайте и повторите\nTrabajo en marketing.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day23.mp3",
+      "poll": {
+        "question": "Trabajo ___ marketing.",
+        "options": [
+          "de",
+          "en",
+          "a"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 24,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 24\nMe gusta — Мне нравится\n🎬 История\nЯсмин смотрит на рисунок Адриана:\n\n👩 Yasmin\n¿Te gusta tu trabajo?\n👨 Adrián\nSí, mucho.\n\nАдриан задаёт ей тот же вопрос.\n🗣 Новые слова\n🔹 ¿Te gusta tu trabajo? — тебе нравится твоя работа?\n🔹 Sí, mucho — да, очень\n⭐ Запомните\nMe gusta — мне нравится.\nMe gusta mucho — мне очень нравится.\n🎧 Послушайте и повторите\n¿Te gusta tu trabajo?\nSí, mucho.",
+      "audio": "audio/morning/day24.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 24\n🎧 Послушайте и повторите\nMe gusta.\nMe gusta mucho.\nMe gusta el café.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day24.mp3",
+      "poll": {
+        "question": "Какой вариант выражает более сильное чувство?",
+        "options": [
+          "Me gusta",
+          "Me gusta mucho",
+          "No me gusta"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 25,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 25\n¿Qué hora es? — Который час?\n🎬 История\nАдриан замечает, что Ясмин смотрит на телефон.\n\n👨 Adrián\n¿Qué hora es?\n👩 Yasmin\nSon las cuatro.\n\nЯсмин улыбается.\nТеперь они знают, сколько времени, и собираются возвращаться к работе.\n🗣 Новые слова\n🔹 ¿Qué hora es? — который час?\n🔹 Son las cuatro — сейчас четыре часа\n🔹 Tres — три\n⭐ Запомните\nЧтобы спросить, который сейчас час:\n¿Qué hora es?\nОтвет:\nSon las tres.\nSon las cuatro.\n🎧 Послушайте и повторите\n¿Qué hora es?\nSon las cuatro.",
+      "audio": "audio/morning/day25.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 25\n🎧 Послушайте и повторите\nTres.\nCuatro.\nSon las cuatro.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day25.mp3",
+      "poll": {
+        "question": "Что означает «Son las cuatro»?",
+        "options": [
+          "В четыре часа",
+          "Сейчас четыре часа",
+          "Через четыре часа"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 26,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 26\nA las seis — В шесть часов\n🎬 История\nПеред выходом Ясмин спрашивает:\n\n👩 Yasmin\n¿A qué hora terminas?\n\nАдриан отвечает:\n\n👨 Adrián\nA las seis.\n\nЯсмин кивает, будто запоминает.\n🗣 Новые слова\n🔹 ¿A qué hora terminas? — во сколько ты заканчиваешь?\n🔹 A las seis — в шесть часов\n🔹 Cinco — пять\n⭐ Запомните\n¿A qué hora? — во сколько?\nОтвет:\nA las cinco.\nA las seis.\n🎧 Послушайте и повторите\n¿A qué hora terminas?\nA las seis.",
+      "audio": "audio/morning/day26.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 26\n🎧 Послушайте и повторите\n¿A qué hora?\nA las cinco.\nA las seis.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day26.mp3",
+      "poll": {
+        "question": "— ¿A qué hora terminas? — ________",
+        "options": [
+          "Soy arquitecto",
+          "A las seis",
+          "Vivo cerca"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 27,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 27\n¿Mañana? — Завтра?\n🎬 История\nУ двери кафе Адриан немного медлит.\n\n👨 Adrián\n¿Un café mañana?\n👩 Yasmin\nSí.\n\nЯсмин смотрит на него и улыбается.\n🗣 Новые слова\n🔹 ¿Un café mañana? — кофе завтра?\n🔹 Sí — да\n⭐ Запомните\nMañana может означать:\nзавтра;\nутро.\nСмысл понятен из ситуации.\nHasta mañana — до завтра.\n🎧 Послушайте и повторите\n¿Un café mañana?\nSí.",
+      "audio": "audio/morning/day27.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 27\n🎧 Послушайте и повторите\n¿Un café mañana?\nSí.\nNo.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day27.mp3",
+      "poll": {
+        "question": "Что означает «mañana» во фразе «¿Un café mañana?»?",
+        "options": [
+          "утром",
+          "сегодня",
+          "завтра"
+        ],
+        "correct_option_id": 2
+      }
+    }
+  },
+  {
+    "day": 28,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 28\nSí, a las seis — Да, в шесть\n🎬 История\nАдриан уточняет:\n\n👨 Adrián\n¿Un café mañana?\n\nЯсмин проверяет расписание:\n\n👩 Yasmin\nSí.\n👨 Adrián\n¿A las seis?\n👩 Yasmin\nA las seis.\n\nТеперь их следующая встреча уже не случайна.\n🗣 Новые слова\n🔹 ¿A las seis? — в шесть?\n⭐ Запомните\nКороткие ответы звучат естественно:\nSí.\nMañana.\nA las seis.\n🎧 Послушайте и повторите\n¿Un café mañana?\nSí.\n¿A las seis?\nA las seis.",
+      "audio": "audio/morning/day28.mp3",
+      "photo": "images/day28.jpg"
+    },
+    "practice": {
+      "text": "☀️ Практика • День 28\n🎧 Послушайте и повторите\n¿Un café mañana?\nSí.\n¿A las seis?\nA las seis.\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day28.mp3",
+      "poll": {
+        "question": "Во сколько договорились встретиться?",
+        "options": [
+          "A las cuatro",
+          "A las seis",
+          "A las dos"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 29,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 29\nLa conversación — Разговор\n🎬 История\nЯсмин и Адриан заканчивают кофе.\nТеперь они уже многое знают друг о друге.\n\n👩 Yasmin\nHola. ¿Qué tal?\n👨 Adrián\nMuy bien. ¿Y tú?\n👩 Yasmin\nBien, gracias.\n👨 Adrián\n¿Dónde vives?\n👩 Yasmin\nVivo cerca. ¿Y tú?\n👨 Adrián\nTambién.\n👩 Yasmin\n¿A qué te dedicas?\n👨 Adrián\nSoy arquitecto.\n👩 Yasmin\nTrabajo en marketing.\n\n🗣 Новые слова\n🔹 Vivo cerca. ¿Y tú? — я живу рядом, а ты?\n🔹 También — тоже\n⭐ Запомните\nВ разговоре полезно возвращать вопрос:\n¿Y tú? — А ты?\nТак диалог звучит естественно.\n🎧 Послушайте и повторите\nHola. ¿Qué tal?\nMuy bien. ¿Y tú?\nBien, gracias.\n¿Dónde vives?\nVivo cerca. ¿Y tú?\nTambién.\n¿A qué te dedicas?\nSoy arquitecto.\nTrabajo en marketing.",
+      "audio": "audio/morning/day29.mp3",
+      "photo": null
+    },
+    "practice": {
+      "text": "☀️ Практика • День 29\n🎧 Послушайте и повторите\nMe llamo…\nSoy de…\nVivo en…\nTrabajo en…\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day29.mp3",
+      "poll": {
+        "question": "Какая фраза означает «Я живу в…»?",
+        "options": [
+          "Soy de…",
+          "Vivo en…",
+          "Trabajo en…"
+        ],
+        "correct_option_id": 1
+      }
+    }
+  },
+  {
+    "day": 30,
+    "morning": {
+      "text": "🌱 Сезон 1 • День 30\nUna nueva cita — Новая встреча\n🎬 История\nСледующий день.\nЯсмин приходит к кафе немного раньше шести.\nАдриан уже ждёт её у входа.\n\n👨 Adrián\nHola, Yasmin.\n👩 Yasmin\nHola, Adrián.\n👨 Adrián\n¿Qué tal?\n👩 Yasmin\nMuy bien. ¿Y tú?\n👨 Adrián\nBien, gracias.\n👩 Yasmin\n¿Un café?\n👨 Adrián\nSí.\n\nСегодня они встретились не случайно.\n🗣 Новые слова\n🔹 Hola, Adrián — привет, Адриан\n🔹 ¿Qué tal? — как дела?\n🔹 ¿Qué es esto? — что это?\n⭐ Сегодня вы уже умеете\nприветствовать человека;\nзнакомиться;\nспрашивать имя;\nговорить, откуда вы;\nрассказывать, где живёте;\nназывать профессию;\nзаказывать кофе;\nспрашивать время;\nдоговариваться о встрече.\n🎬 Финал сезона\nНа столе Адриан открывает свой архитектурный блокнот.\nЯсмин замечает необычный рисунок здания.\n\n👩 Yasmin\n¿Qué es esto?\n\nПродолжение — во втором сезоне.\n🎧 Послушайте и повторите\nHola, Yasmin.\nHola, Adrián.\n¿Qué tal?\nMuy bien. ¿Y tú?\nBien, gracias.\n¿Un café?\nSí.\n¿Qué es esto?",
+      "audio": "audio/morning/day30.mp3",
+      "photo": "images/day30.jpg"
+    },
+    "practice": {
+      "text": "☀️ Практика • День 30\n🎧 Послушайте и повторите\n¿Cómo te llamas?\n¿De dónde eres?\n¿Dónde vives?\n¿A qué te dedicas?\nMe llamo…\nSoy de…\nVivo en…\nTrabajo en…\n👇 Ответьте в опросе ниже.",
+      "audio": "audio/practice/day30.mp3",
+      "poll": {
+        "question": "Как спросить «Чем ты занимаешься?»?",
+        "options": [
+          "¿A qué te dedicas?",
+          "¿Dónde vives?",
+          "¿Qué tal?"
+        ],
+        "correct_option_id": 0
+      }
+    },
+    "monthly_review_polls": [
+      {
+        "question": "Как спросить «Как тебя зовут?»?",
+        "options": [
+          "¿Qué tal?",
+          "¿Cómo te llamas?",
+          "¿Dónde vives?"
+        ],
+        "correct_option_id": 1
+      },
+      {
+        "question": "Как сказать «Я из Мадрида»?",
+        "options": [
+          "Vivo en Madrid",
+          "Soy de Madrid",
+          "Trabajo en Madrid"
+        ],
+        "correct_option_id": 1
+      },
+      {
+        "question": "Что означает «¿Dónde vives?»?",
+        "options": [
+          "Откуда ты?",
+          "Где ты живёшь?",
+          "Чем ты занимаешься?"
+        ],
+        "correct_option_id": 1
+      },
+      {
+        "question": "Как правильно заказать два кофе?",
+        "options": [
+          "Dos café, por favor",
+          "Un cafés, por favor",
+          "Dos cafés, por favor"
+        ],
+        "correct_option_id": 2
+      },
+      {
+        "question": "— ¿A qué hora terminas? — ________",
+        "options": [
+          "Soy arquitecto",
+          "A las seis",
+          "Vivo cerca"
+        ],
+        "correct_option_id": 1
+      }
+    ]
+  }
+]
