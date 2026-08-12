@@ -1,0 +1,653 @@
+{
+  "1": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué es esto?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Es un proyecto."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Tu proyecto?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí, mi proyecto."
+      }
+    ],
+    "practice": [
+      "Es un proyecto.",
+      "Mi proyecto."
+    ]
+  },
+  "2": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Interesante."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "¿Te gusta?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, me gusta mucho."
+      }
+    ],
+    "practice": [
+      "¿Te gusta?",
+      "Me gusta mucho."
+    ]
+  },
+  "3": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Quieres otro café?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, gracias."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Yo también."
+      }
+    ],
+    "practice": [
+      "¿Quieres café?",
+      "Sí, gracias."
+    ]
+  },
+  "4": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Para mí, un café, por favor."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Para mí, también."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Gracias."
+      }
+    ],
+    "practice": [
+      "Para mí, un café, por favor.",
+      "Para mí, también."
+    ]
+  },
+  "5": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Algo más?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "No, gracias."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Perfecto."
+      }
+    ],
+    "practice": [
+      "¿Algo más?",
+      "No, gracias."
+    ]
+  },
+  "6": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "La cuenta, por favor."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Gracias."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "¿Nos vemos mañana?"
+      }
+    ],
+    "practice": [
+      "La cuenta, por favor.",
+      "Por favor."
+    ]
+  },
+  "7": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Quieres un café?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí. Para mí, un café, por favor."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "¿Algo más?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "No, gracias."
+      }
+    ],
+    "practice": [
+      "¿Quieres un café?",
+      "Para mí, un café, por favor.",
+      "La cuenta, por favor."
+    ]
+  },
+  "8": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Nos vemos esta semana?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué día?"
+      }
+    ],
+    "practice": [
+      "Esta semana.",
+      "¿Qué día?"
+    ]
+  },
+  "9": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "El lunes."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "El lunes trabajo."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Vale."
+      }
+    ],
+    "practice": [
+      "El lunes.",
+      "Vale."
+    ]
+  },
+  "10": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿El martes?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, el martes puedo."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Perfecto."
+      }
+    ],
+    "practice": [
+      "El martes puedo.",
+      "Perfecto."
+    ]
+  },
+  "11": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "El miércoles trabajo."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Yo también."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "¿Y el jueves?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "El jueves puedo."
+      }
+    ],
+    "practice": [
+      "El miércoles.",
+      "El jueves."
+    ]
+  },
+  "12": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Y el viernes?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "El viernes no puedo."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Vale."
+      }
+    ],
+    "practice": [
+      "Puedo.",
+      "No puedo."
+    ]
+  },
+  "13": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Sábado o domingo?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "El sábado puedo."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "El domingo también."
+      }
+    ],
+    "practice": [
+      "Sábado.",
+      "Domingo.",
+      "Sábado o domingo."
+    ]
+  },
+  "14": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Lunes, martes, miércoles..."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Jueves, viernes, sábado y domingo."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "El martes puedo."
+      }
+    ],
+    "practice": [
+      "Lunes, martes, miércoles.",
+      "Jueves, viernes, sábado, domingo."
+    ]
+  },
+  "15": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿A qué hora quedamos?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "A las siete."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Perfecto."
+      }
+    ],
+    "practice": [
+      "¿A qué hora quedamos?",
+      "A las siete."
+    ]
+  },
+  "16": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿A las siete y media?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, a las siete y media."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Gracias."
+      }
+    ],
+    "practice": [
+      "A las siete.",
+      "A las siete y media."
+    ]
+  },
+  "17": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Dónde quedamos?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "En el café."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Vale."
+      }
+    ],
+    "practice": [
+      "¿Dónde quedamos?",
+      "En el café."
+    ]
+  },
+  "18": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "El martes, a las siete y media, en el café."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Nos vemos allí."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Hasta el martes."
+      }
+    ],
+    "practice": [
+      "Nos vemos allí.",
+      "Hasta el martes."
+    ]
+  },
+  "19": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Ya estoy aquí."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Voy."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Vale."
+      }
+    ],
+    "practice": [
+      "Estoy aquí.",
+      "Ya estoy aquí.",
+      "Voy."
+    ]
+  },
+  "20": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Qué quieres tomar?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Quiero un café."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Yo quiero té."
+      }
+    ],
+    "practice": [
+      "Quiero un café.",
+      "Quiero té."
+    ]
+  },
+  "21": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Qué día puedes?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "El martes puedo."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "¿A qué hora quedamos?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "A las siete y media."
+      }
+    ],
+    "practice": [
+      "El martes puedo.",
+      "A las siete y media.",
+      "En el café."
+    ]
+  },
+  "22": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Tengo una reunión."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Hoy?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí, esta tarde."
+      }
+    ],
+    "practice": [
+      "Tengo una reunión.",
+      "Esta tarde."
+    ]
+  },
+  "23": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Perdón."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "No pasa nada."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Gracias."
+      }
+    ],
+    "practice": [
+      "No pasa nada.",
+      "Gracias."
+    ]
+  },
+  "24": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Puedes mañana?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, mañana puedo."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Perfecto."
+      }
+    ],
+    "practice": [
+      "¿Puedes mañana?",
+      "Mañana puedo."
+    ]
+  },
+  "25": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿A las siete y media?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Mejor a las ocho."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "De acuerdo, a las ocho."
+      }
+    ],
+    "practice": [
+      "Mejor a las ocho.",
+      "A las ocho.",
+      "De acuerdo."
+    ]
+  },
+  "26": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "El sábado estoy libre."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Yo también."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "¿Quieres venir?"
+      }
+    ],
+    "practice": [
+      "Estoy libre.",
+      "¿Quieres venir?"
+    ]
+  },
+  "27": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, claro."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Perfecto."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿A qué hora?"
+      }
+    ],
+    "practice": [
+      "Sí, claro.",
+      "Claro."
+    ]
+  },
+  "28": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Puedes el sábado?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿A qué hora quedamos?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "A las nueve o a las diez."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "A las diez. De acuerdo."
+      }
+    ],
+    "practice": [
+      "¿Puedes el sábado?",
+      "A las nueve.\nA las diez.",
+      "De acuerdo."
+    ]
+  },
+  "29": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Tengo una idea."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué idea?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Madrid."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Madrid?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Son mis lugares favoritos."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Es interesante."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Son lugares de Madrid."
+      }
+    ],
+    "practice": [
+      "Tengo una idea.",
+      "Son mis lugares favoritos."
+    ]
+  },
+  "30": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿El sábado?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, claro."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "A las diez."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "De acuerdo. Nos vemos allí."
+      }
+    ],
+    "practice": [
+      "El sábado.",
+      "A las diez.",
+      "Nos vemos allí."
+    ]
+  }
+}
