@@ -1,0 +1,645 @@
+{
+  "1": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¡Buenos días! ¿Qué tal?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "¿Dónde vamos?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "No sé. Tú tienes una idea."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Vamos al centro."
+      }
+    ],
+    "practice": [
+      "¿Dónde vamos?",
+      "Vamos al centro."
+    ]
+  },
+  "2": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Aquí estamos."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Aquí?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Este es el centro."
+      }
+    ],
+    "practice": [
+      "Aquí estamos.",
+      "Este es el centro."
+    ]
+  },
+  "3": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué hay aquí?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Hay una plaza."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Es muy bonita."
+      }
+    ],
+    "practice": [
+      "¿Qué hay aquí?",
+      "Hay una plaza."
+    ]
+  },
+  "4": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Está lejos?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "No. Está cerca."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Perfecto."
+      }
+    ],
+    "practice": [
+      "Está cerca.",
+      "Está lejos."
+    ]
+  },
+  "5": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Vamos en metro?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "No. Vamos a pie."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Vale."
+      }
+    ],
+    "practice": [
+      "Vamos a pie.",
+      "Vamos en metro."
+    ]
+  },
+  "6": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Dónde está el metro?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Está allí."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Ah, vale."
+      }
+    ],
+    "practice": [
+      "¿Dónde está el metro?",
+      "Está allí."
+    ]
+  },
+  "7": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué hay aquí?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Hay una plaza. El metro está cerca."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Perfecto. Vamos a pie."
+      }
+    ],
+    "practice": [
+      "¿Dónde está el metro?",
+      "Está cerca.",
+      "Vamos a pie."
+    ]
+  },
+  "8": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Esta es la estación."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿La estación de metro?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí."
+      }
+    ],
+    "practice": [
+      "La estación.",
+      "La estación de metro."
+    ]
+  },
+  "9": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Cuánto cuesta el billete?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "No sé."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Vale."
+      }
+    ],
+    "practice": [
+      "¿Cuánto cuesta el billete?",
+      "El billete."
+    ]
+  },
+  "10": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué línea?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "La línea dos."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿La dos?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí."
+      }
+    ],
+    "practice": [
+      "¿Qué línea?",
+      "La línea dos."
+    ]
+  },
+  "11": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Necesito un mapa."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Aquí tienes."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Gracias."
+      }
+    ],
+    "practice": [
+      "Necesito un mapa.",
+      "Aquí tienes."
+    ]
+  },
+  "12": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Ahora vamos en metro?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Dos estaciones."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Perfecto."
+      }
+    ],
+    "practice": [
+      "Ahora.",
+      "Dos estaciones."
+    ]
+  },
+  "13": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "La próxima estación."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Ya?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Bajamos aquí."
+      }
+    ],
+    "practice": [
+      "La próxima estación.",
+      "Bajamos aquí."
+    ]
+  },
+  "14": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "La línea dos. Dos estaciones."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Y bajamos aquí."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Muy bien."
+      }
+    ],
+    "practice": [
+      "¿Qué línea?",
+      "La línea dos.",
+      "Bajamos aquí."
+    ]
+  },
+  "15": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Perdón. ¿Cómo llego a Gran Vía?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Muy bien."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Gracias."
+      }
+    ],
+    "practice": [
+      "¿Cómo llego a Gran Vía?",
+      "Perdón."
+    ]
+  },
+  "16": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Cómo llego a Gran Vía?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Todo recto."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Recto?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí."
+      }
+    ],
+    "practice": [
+      "Todo recto.",
+      "Recto."
+    ]
+  },
+  "17": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Ahora, a la derecha."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿A la derecha?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí."
+      }
+    ],
+    "practice": [
+      "A la derecha.",
+      "Ahora, a la derecha."
+    ]
+  },
+  "18": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Derecha o izquierda?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "A la izquierda."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Exacto."
+      }
+    ],
+    "practice": [
+      "A la derecha.",
+      "A la izquierda."
+    ]
+  },
+  "19": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Está en la esquina."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Allí?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí, allí."
+      }
+    ],
+    "practice": [
+      "En la esquina.",
+      "Está en la esquina."
+    ]
+  },
+  "20": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Está al lado del café?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Al lado del café."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Ya veo."
+      }
+    ],
+    "practice": [
+      "Al lado del café.",
+      "Ya veo."
+    ]
+  },
+  "21": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Todo recto, a la derecha y después a la izquierda."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Exacto. Está en la esquina."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Perfecto."
+      }
+    ],
+    "practice": [
+      "Todo recto.",
+      "A la derecha.",
+      "A la izquierda."
+    ]
+  },
+  "22": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Vamos en autobús."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Dónde está la parada?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Está cerca."
+      }
+    ],
+    "practice": [
+      "El autobús.",
+      "La parada."
+    ]
+  },
+  "23": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué autobús?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "El diez."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Vale."
+      }
+    ],
+    "practice": [
+      "¿Qué autobús?",
+      "El diez."
+    ]
+  },
+  "24": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Aquí?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "No. Una parada más."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Ah, vale."
+      }
+    ],
+    "practice": [
+      "Una parada más.",
+      "¿Aquí?"
+    ]
+  },
+  "25": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Un momento… Nos hemos equivocado."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Sí?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. No pasa nada."
+      }
+    ],
+    "practice": [
+      "Nos hemos equivocado.",
+      "No pasa nada."
+    ]
+  },
+  "26": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Y ahora?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Tenemos que volver."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Vale. ¿En autobús?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí."
+      }
+    ],
+    "practice": [
+      "Tenemos que volver.",
+      "¿Y ahora?"
+    ]
+  },
+  "27": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Es por aquí?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí, por aquí."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Perfecto."
+      }
+    ],
+    "practice": [
+      "¿Es por aquí?",
+      "Por aquí."
+    ]
+  },
+  "28": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "La parada está allí. El autobús diez."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Una parada más y bajamos."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Exacto."
+      }
+    ],
+    "practice": [
+      "¿Dónde está la parada?",
+      "Una parada más.",
+      "¿Es por aquí?"
+    ]
+  },
+  "29": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¡Hola, Diego!"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "¡Adrián! ¿Qué tal?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Muy bien. Mira, ella es Yasmin."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Hola. Mucho gusto."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Encantado."
+      }
+    ],
+    "practice": [
+      "Ella es Yasmin.",
+      "Mucho gusto.",
+      "Encantado."
+    ]
+  },
+  "30": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Hoy conozco mejor Madrid."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. ¿Te gusta?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, me gusta mucho."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "El domingo veo a unos amigos. ¿Queréis venir?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí, claro."
+      }
+    ],
+    "practice": [
+      "¿Dónde está la estación?",
+      "Todo recto.",
+      "A la derecha.",
+      "¿Es por aquí?"
+    ]
+  }
+}
