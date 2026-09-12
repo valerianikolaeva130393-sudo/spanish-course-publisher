@@ -1,0 +1,117 @@
+name: Preview Spanish Course
+
+on:
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Что проверить в тестовом канале"
+        required: true
+        type: choice
+        default: morning
+        options:
+          - morning
+          - practice
+          - monthly_polls
+          - congrats
+      season:
+        description: "Сезон"
+        required: true
+        type: choice
+        default: "1"
+        options:
+          - "1"
+          - "2"
+          - "3"
+      day:
+        description: "День для morning или practice"
+        required: true
+        type: choice
+        default: "1"
+        options:
+          - "1"
+          - "2"
+          - "3"
+          - "4"
+          - "5"
+          - "6"
+          - "7"
+          - "8"
+          - "9"
+          - "10"
+          - "11"
+          - "12"
+          - "13"
+          - "14"
+          - "15"
+          - "16"
+          - "17"
+          - "18"
+          - "19"
+          - "20"
+          - "21"
+          - "22"
+          - "23"
+          - "24"
+          - "25"
+          - "26"
+          - "27"
+          - "28"
+          - "29"
+          - "30"
+      confirm:
+        description: "Для запуска введите PREVIEW"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: spanish-course-preview
+  cancel-in-progress: false
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v5
+
+      - name: Use Node.js 24
+        uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+          package-manager-cache: false
+
+      - name: Check confirmation
+        env:
+          PREVIEW_CONFIRM: ${{ inputs.confirm }}
+        run: test "$PREVIEW_CONFIRM" = "PREVIEW"
+
+      - name: Check course files
+        run: node src/check-files.mjs
+
+      - name: Validate test settings
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          TEST_CHANNEL_ID: ${{ secrets.TEST_TELEGRAM_CHAT_ID }}
+          START_DATE: ${{ vars.START_DATE }}
+        run: |
+          test -n "$BOT_TOKEN" || (echo "ОШИБКА: нет BOT_TOKEN" && exit 1)
+          test -n "$TEST_CHANNEL_ID" || (echo "ОШИБКА: нет TEST_TELEGRAM_CHAT_ID" && exit 1)
+          test -n "$START_DATE" || (echo "ОШИБКА: нет START_DATE" && exit 1)
+
+      - name: Publish exact preview without changing state
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.TEST_TELEGRAM_CHAT_ID }}
+          START_DATE: ${{ vars.START_DATE }}
+          TIMEZONE: ${{ vars.TIMEZONE }}
+          MANUAL_DAY: ${{ inputs.day }}
+          MANUAL_SLOT: ${{ inputs.slot }}
+          MANUAL_SEASON: ${{ inputs.season }}
+          RUN_MODE: test
+          EVENT_TYPE: manual
+        run: node src/publish.mjs
