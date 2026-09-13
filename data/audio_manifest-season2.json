@@ -532,12 +532,12 @@
       },
       {
         "speaker": "Адриан",
-        "text": "¿Quieres venir?"
+        "text": "¿Quieres venir al centro el sábado?"
       }
     ],
     "practice": [
       "Estoy libre.",
-      "¿Quieres venir?"
+      "¿Quieres venir al centro el sábado?"
     ]
   },
   "27": {
@@ -581,11 +581,16 @@
       {
         "speaker": "Ясмин",
         "text": "A las diez. De acuerdo."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Nos vemos allí."
       }
     ],
     "practice": [
       "¿Puedes el sábado?",
-      "A las nueve.\nA las diez.",
+      "A las nueve.",
+      "A las diez.",
       "De acuerdo."
     ]
   },
