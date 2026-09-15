@@ -305,8 +305,8 @@
       }
     ],
     "practice": [
-      "¿Cómo llego a Gran Vía?",
-      "Perdón."
+      "Perdón.",
+      "¿Cómo llego a Gran Vía?"
     ]
   },
   "16": {
@@ -511,7 +511,7 @@
     ],
     "practice": [
       "Nos hemos equivocado.",
-      "No pasa nada."
+      "Me he equivocado."
     ]
   },
   "26": {
@@ -534,8 +534,8 @@
       }
     ],
     "practice": [
-      "Tenemos que volver.",
-      "¿Y ahora?"
+      "¿Y ahora?",
+      "Tenemos que volver."
     ]
   },
   "27": {
@@ -590,7 +590,7 @@
         "text": "¡Hola, Diego!"
       },
       {
-        "speaker": "Адриан",
+        "speaker": "Диего",
         "text": "¡Adrián! ¿Qué tal?"
       },
       {
@@ -602,7 +602,7 @@
         "text": "Hola. Mucho gusto."
       },
       {
-        "speaker": "Адриан",
+        "speaker": "Диего",
         "text": "Encantado."
       }
     ],
@@ -627,7 +627,7 @@
         "text": "Sí, me gusta mucho."
       },
       {
-        "speaker": "Адриан",
+        "speaker": "Диего",
         "text": "El domingo veo a unos amigos. ¿Queréis venir?"
       },
       {
@@ -639,6 +639,7 @@
       "¿Dónde está la estación?",
       "Todo recto.",
       "A la derecha.",
+      "A la izquierda.",
       "¿Es por aquí?"
     ]
   }
