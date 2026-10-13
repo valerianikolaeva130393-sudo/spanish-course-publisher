@@ -1,0 +1,635 @@
+{
+  "1": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Yasmin, te presento a Diego."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Hola otra vez."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Hola, Diego. Encantada de verte."
+      }
+    ],
+    "practice": [
+      "Te presento a Diego.",
+      "Encantada de verte."
+    ]
+  },
+  "2": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Diego es tu amigo?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Es mi amigo."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Ah, claro."
+      }
+    ],
+    "practice": [
+      "¿Es tu amigo?",
+      "Sí. Es mi amigo."
+    ]
+  },
+  "3": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Vives en Madrid?"
+      },
+      {
+        "speaker": "Диего",
+        "text": "Sí. Vivo cerca del centro."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Diego vive en Madrid."
+      }
+    ],
+    "practice": [
+      "¿Vives en Madrid?",
+      "Vivo cerca del centro.",
+      "Diego vive en Madrid."
+    ]
+  },
+  "4": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿En qué trabaja Diego?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Trabaja en un estudio de diseño."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Sí. Me gusta mucho mi trabajo."
+      }
+    ],
+    "practice": [
+      "¿En qué trabaja Diego?",
+      "Trabaja en un estudio de diseño."
+    ]
+  },
+  "5": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Cómo os conocéis?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Nos conocemos del trabajo."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Sí. Trabajamos juntos."
+      }
+    ],
+    "practice": [
+      "¿Cómo os conocéis?",
+      "Nos conocemos del trabajo."
+    ]
+  },
+  "6": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "Ella se llama Elena y él se llama Marcos."
+      },
+      {
+        "speaker": "Элена",
+        "text": "Hola. Encantada."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Mucho gusto."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Encantada."
+      }
+    ],
+    "practice": [
+      "Ella se llama Elena.",
+      "Él se llama Marcos.",
+      "Mucho gusto."
+    ]
+  },
+  "7": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "Yasmin, te presento a Elena y a Marcos."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Mucho gusto."
+      },
+      {
+        "speaker": "Элена",
+        "text": "Encantada."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Encantado."
+      }
+    ],
+    "practice": [
+      "Ella es Elena.",
+      "Él es Marcos.",
+      "Elena es amiga de Diego."
+    ]
+  },
+  "8": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "¿Cómo es Diego?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Es tranquilo y divertido."
+      },
+      {
+        "speaker": "Элена",
+        "text": "Sí, es verdad."
+      }
+    ],
+    "practice": [
+      "¿Cómo es Diego?",
+      "Es tranquilo y divertido."
+    ]
+  },
+  "9": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Cómo es Marcos?"
+      },
+      {
+        "speaker": "Диего",
+        "text": "Tiene el pelo oscuro y lleva gafas."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Ah, ya sé."
+      }
+    ],
+    "practice": [
+      "Tiene el pelo oscuro.",
+      "Lleva gafas."
+    ]
+  },
+  "10": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Cómo es Elena?"
+      },
+      {
+        "speaker": "Диего",
+        "text": "Es amable y sociable."
+      },
+      {
+        "speaker": "Элена",
+        "text": "Gracias, Diego."
+      }
+    ],
+    "practice": [
+      "¿Cómo es Elena?",
+      "Es amable y sociable."
+    ]
+  },
+  "11": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Marcos habla poco. ¿Es serio?"
+      },
+      {
+        "speaker": "Элена",
+        "text": "Sí, es serio, pero muy simpático."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Gracias, Elena."
+      }
+    ],
+    "practice": [
+      "Es serio, pero simpático.",
+      "Habla poco."
+    ]
+  },
+  "12": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Elena y Marcos son muy amables."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Son buenos amigos."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Estoy de acuerdo."
+      }
+    ],
+    "practice": [
+      "Son muy amables.",
+      "Son buenos amigos."
+    ]
+  },
+  "13": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "Diego es divertido, pero hoy está muy tranquilo."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Sí. Hoy estoy un poco cansado."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Entonces, descansa."
+      }
+    ],
+    "practice": [
+      "Diego es divertido.",
+      "Hoy está tranquilo.",
+      "Estoy un poco cansado."
+    ]
+  },
+  "14": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Diego es tranquilo. Elena es sociable."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Y Marcos es serio, pero simpático."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Sí. Elena y Marcos son buenos amigos."
+      }
+    ],
+    "practice": [
+      "Diego es tranquilo.",
+      "Elena es sociable.",
+      "Hoy Marcos está cansado."
+    ]
+  },
+  "15": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "¿Qué te gusta hacer?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Me gusta hacer fotos."
+      },
+      {
+        "speaker": "Элена",
+        "text": "¡A mí también!"
+      }
+    ],
+    "practice": [
+      "¿Qué te gusta hacer?",
+      "Me gusta hacer fotos.",
+      "A mí también."
+    ]
+  },
+  "16": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué le gusta hacer a Diego?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "A Diego le gusta cocinar."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Sí. Me gusta mucho."
+      }
+    ],
+    "practice": [
+      "¿Qué le gusta hacer a Diego?",
+      "A Diego le gusta cocinar."
+    ]
+  },
+  "17": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "Me gusta el cine. Me gustan las películas españolas."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "A mí también me gusta el cine."
+      },
+      {
+        "speaker": "Элена",
+        "text": "Entonces tenemos algo en común."
+      }
+    ],
+    "practice": [
+      "Me gusta el cine.",
+      "Me gustan las películas españolas."
+    ]
+  },
+  "18": {
+    "morning": [
+      {
+        "speaker": "Маркос",
+        "text": "Me gusta correr."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Cuándo corres?"
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Normalmente corro por la mañana."
+      }
+    ],
+    "practice": [
+      "Me gusta correr.",
+      "Normalmente corro por la mañana."
+    ]
+  },
+  "19": {
+    "morning": [
+      {
+        "speaker": "Маркос",
+        "text": "Me gusta caminar por Madrid."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "A mí también."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Podemos caminar juntos algún día."
+      }
+    ],
+    "practice": [
+      "Me gusta caminar.",
+      "A mí también."
+    ]
+  },
+  "20": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "No me gusta correr por la mañana."
+      },
+      {
+        "speaker": "Элена",
+        "text": "A mí tampoco."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "No pasa nada. Podemos caminar."
+      }
+    ],
+    "practice": [
+      "No me gusta correr.",
+      "A mí tampoco.",
+      "Podemos caminar."
+    ]
+  },
+  "21": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "¿Qué os gusta hacer?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Me gusta hacer fotos."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "A mí me gusta el cine."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Y a mí me gusta cocinar."
+      }
+    ],
+    "practice": [
+      "¿Qué os gusta hacer?",
+      "Me gusta hacer fotos.",
+      "A mí me gusta cocinar."
+    ]
+  },
+  "22": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "¿Os apetece cenar juntos?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, buena idea."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "A mí también me apetece."
+      }
+    ],
+    "practice": [
+      "¿Os apetece cenar juntos?",
+      "Sí, buena idea."
+    ]
+  },
+  "23": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "¿Queréis ir al cine?"
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Sí, puede estar bien."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué película hay?"
+      }
+    ],
+    "practice": [
+      "¿Queréis ir al cine?",
+      "Sí, puede estar bien."
+    ]
+  },
+  "24": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Podemos quedar el sábado."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Por mí, perfecto."
+      },
+      {
+        "speaker": "Элена",
+        "text": "Tengo que mirar mi horario."
+      }
+    ],
+    "practice": [
+      "Podemos quedar el sábado.",
+      "Por mí, perfecto."
+    ]
+  },
+  "25": {
+    "morning": [
+      {
+        "speaker": "Маркос",
+        "text": "El sábado puedo."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿Por la mañana o por la tarde?"
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Prefiero por la tarde."
+      }
+    ],
+    "practice": [
+      "¿Por la mañana o por la tarde?",
+      "Prefiero por la tarde."
+    ]
+  },
+  "26": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "El sábado no puedo porque trabajo."
+      },
+      {
+        "speaker": "Диего",
+        "text": "No pasa nada."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Buscamos otro día."
+      }
+    ],
+    "practice": [
+      "El sábado no puedo.",
+      "No puedo porque trabajo.",
+      "Buscamos otro día."
+    ]
+  },
+  "27": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Y el domingo?"
+      },
+      {
+        "speaker": "Элена",
+        "text": "El domingo sí puedo."
+      },
+      {
+        "speaker": "Диего",
+        "text": "¿Podéis todos el domingo?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, claro."
+      }
+    ],
+    "practice": [
+      "¿Y el domingo?",
+      "El domingo sí puedo.",
+      "¿Podéis todos el domingo?"
+    ]
+  },
+  "28": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "Entonces, quedamos el domingo por la tarde."
+      },
+      {
+        "speaker": "Элена",
+        "text": "Perfecto. El domingo puedo."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Muy bien. Nos vemos el domingo."
+      }
+    ],
+    "practice": [
+      "¿Os apetece quedar?",
+      "El sábado no puedo.",
+      "Entonces, quedamos el domingo."
+    ]
+  },
+  "29": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Qué hacemos el domingo?"
+      },
+      {
+        "speaker": "Диего",
+        "text": "Podemos ir al mercado."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Y después podemos cenar juntos."
+      }
+    ],
+    "practice": [
+      "¿Qué hacemos el domingo?",
+      "Podemos ir al mercado.",
+      "Después podemos cenar juntos."
+    ]
+  },
+  "30": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "Entonces, el domingo vamos al mercado."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Compramos algo para cenar."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Y unos regalos pequeños."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Perfecto. Después cenamos todos juntos."
+      }
+    ],
+    "practice": [
+      "Entonces, el domingo vamos al mercado.",
+      "Compramos algo para cenar.",
+      "Después cenamos todos juntos."
+    ]
+  }
+}
