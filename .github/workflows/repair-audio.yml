@@ -2,6 +2,17 @@ name: Repair Spanish course audio
 
 on:
   workflow_dispatch:
+    inputs:
+      season:
+        description: "Сезон, аудио которого нужно исправить"
+        required: true
+        type: choice
+        default: "4"
+        options:
+          - "1"
+          - "2"
+          - "3"
+          - "4"
 
 permissions:
   contents: write
@@ -28,12 +39,20 @@ jobs:
 
       - name: Rebuild all MP3 files
         shell: bash
+        env:
+          REPAIR_SEASON: ${{ inputs.season }}
         run: |
           set -euo pipefail
 
           repaired=0
 
-          for folder in audio/morning audio/practice; do
+          if [ "$REPAIR_SEASON" = "1" ]; then
+            target_base="audio"
+          else
+            target_base="audio/season${REPAIR_SEASON}"
+          fi
+
+          for folder in "$target_base/morning" "$target_base/practice"; do
             for file in "$folder"/day*.mp3; do
               if [ ! -f "$file" ]; then
                 echo "ОШИБКА: не найден $file"
@@ -66,7 +85,7 @@ jobs:
             exit 1
           fi
 
-          echo "УСПЕХ: исправлены все 60 MP3."
+          echo "УСПЕХ: исправлены все 60 MP3 сезона ${REPAIR_SEASON}."
 
       - name: Save repaired audio
         run: |
