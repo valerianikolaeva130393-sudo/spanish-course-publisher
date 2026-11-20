@@ -56,6 +56,7 @@ validateSeason({number:1, lessonsFile:"data/lessons.json", manifestFile:"data/au
 validateSeason({number:2, lessonsFile:"data/lessons-season2.json", manifestFile:"data/audio_manifest-season2.json", congratsImage:"images/season2/season2-congratulations.jpg"});
 validateSeason({number:3, lessonsFile:"data/lessons-season3.json", manifestFile:"data/audio_manifest-season3.json", congratsImage:"images/season3/season3-congratulations.jpg"});
 validateSeason({number:4, lessonsFile:"data/lessons-season4.json", manifestFile:"data/audio_manifest-season4.json", congratsImage:"images/season4/season4-congratulations.jpg"});
+validateSeason({number:5, lessonsFile:"data/lessons-season5.json", manifestFile:"data/audio_manifest-season5.json", congratsImage:"images/season5/season5-congratulations.jpg"});
 
 if (missing.length) { console.error("Не найдены файлы:"); for (const f of [...new Set(missing)]) console.error(`  - ${f}`); }
 if (errors.length) { console.error("Ошибки данных:"); for (const e of errors) console.error(`  - ${e}`); }
@@ -70,4 +71,8 @@ console.log("✓ Сезон 4: 30 утренних MP3 и 30 дневных MP3"
 console.log("✓ Сезон 4: 30 утренних и 30 дневных публикаций проверены по аудиоманифесту");
 console.log("✓ Сезон 4: 30 ежедневных Telegram Poll и 6 итоговых Poll");
 console.log("✓ Сезон 4: 4 недельных изображения + поздравительное изображение");
-console.log("✓ Четыре сезона готовы к автоматическому выбору по месяцу");
+console.log("✓ Сезон 5: 30 утренних MP3 и 30 дневных MP3");
+console.log("✓ Сезон 5: 30 утренних и 30 дневных публикаций проверены по аудиоманифесту");
+console.log("✓ Сезон 5: 30 ежедневных Telegram Poll и 6 итоговых Poll");
+console.log("✓ Сезон 5: 4 недельных изображения + поздравительное изображение");
+console.log("✓ Пять сезонов готовы к автоматическому выбору по месяцу");

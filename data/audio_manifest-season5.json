@@ -1,0 +1,630 @@
+{
+  "1": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Hacemos una lista?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Necesitamos comida para la cena."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Perfecto. Yo tengo papel."
+      }
+    ],
+    "practice": [
+      "¿Hacemos una lista?",
+      "Necesitamos comida para la cena."
+    ]
+  },
+  "2": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "¿Qué necesitamos?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Necesitamos tomates y pan."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Y también queso."
+      }
+    ],
+    "practice": [
+      "¿Qué necesitamos?",
+      "Necesitamos tomates y pan.",
+      "Y también queso."
+    ]
+  },
+  "3": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Quiero un kilo de tomates, por favor."
+      },
+      {
+        "speaker": "Сервис",
+        "text": "¿Un kilo?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, un kilo."
+      }
+    ],
+    "practice": [
+      "Un kilo de tomates, por favor.",
+      "Medio kilo de queso, por favor."
+    ]
+  },
+  "4": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Quiero una botella de agua."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Y un poco de zumo."
+      },
+      {
+        "speaker": "Сервис",
+        "text": "Muy bien."
+      }
+    ],
+    "practice": [
+      "Una botella de agua.",
+      "Un poco de zumo."
+    ]
+  },
+  "5": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "¿Cuánto cuesta esto?"
+      },
+      {
+        "speaker": "Сервис",
+        "text": "Cuesta cuatro euros."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Vale, gracias."
+      }
+    ],
+    "practice": [
+      "¿Cuánto cuesta esto?",
+      "Cuesta cuatro euros."
+    ]
+  },
+  "6": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "¿Cuánto cuestan estos panes?"
+      },
+      {
+        "speaker": "Сервис",
+        "text": "Cuestan seis euros."
+      },
+      {
+        "speaker": "Диего",
+        "text": "De acuerdo."
+      }
+    ],
+    "practice": [
+      "¿Cuánto cuestan estos panes?",
+      "Cuestan seis euros."
+    ]
+  },
+  "7": {
+    "morning": [
+      {
+        "speaker": "Сервис",
+        "text": "¿Algo más?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Nada más, gracias."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Ya tenemos todo."
+      }
+    ],
+    "practice": [
+      "¿Algo más?",
+      "Nada más, gracias.",
+      "Ya tenemos todo."
+    ]
+  },
+  "8": {
+    "morning": [
+      {
+        "speaker": "Маркос",
+        "text": "Busco una bufanda."
+      },
+      {
+        "speaker": "Элена",
+        "text": "¿De qué color?"
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Azul o gris."
+      }
+    ],
+    "practice": [
+      "Busco una bufanda.",
+      "¿De qué color?",
+      "Azul o gris."
+    ]
+  },
+  "9": {
+    "morning": [
+      {
+        "speaker": "Сервис",
+        "text": "¿Esta bufanda?"
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Me gusta, pero ¿y esa?"
+      },
+      {
+        "speaker": "Элена",
+        "text": "Esa es muy bonita."
+      }
+    ],
+    "practice": [
+      "¿Esta bufanda?",
+      "¿Y esa?",
+      "Esa es muy bonita."
+    ]
+  },
+  "10": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Tienes otra talla?"
+      },
+      {
+        "speaker": "Сервис",
+        "text": "Sí. ¿Qué talla necesitas?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Una talla mediana."
+      }
+    ],
+    "practice": [
+      "¿Tienes otra talla?",
+      "Necesito una talla mediana."
+    ]
+  },
+  "11": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "¿Puedo probármelo?"
+      },
+      {
+        "speaker": "Сервис",
+        "text": "Sí, claro. El probador está allí."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Gracias."
+      }
+    ],
+    "practice": [
+      "¿Puedo probármelo?",
+      "Sí, claro.",
+      "El probador está allí."
+    ]
+  },
+  "12": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Te queda bien."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Sí, pero la manga es larga."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Necesito otra talla."
+      }
+    ],
+    "practice": [
+      "Te queda bien.",
+      "La manga es larga.",
+      "Necesito otra talla."
+    ]
+  },
+  "13": {
+    "morning": [
+      {
+        "speaker": "Маркос",
+        "text": "Este es más barato que ese."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí, pero ese es más cómodo."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Los dos están bien."
+      }
+    ],
+    "practice": [
+      "Este es más barato que ese.",
+      "Ese es más cómodo."
+    ]
+  },
+  "14": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "¿Cuál te gusta más?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Este. Me queda mejor."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Yo me llevo esa bufanda."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Y yo me llevo este."
+      }
+    ],
+    "practice": [
+      "¿Cuál te gusta más?",
+      "Este me queda mejor.",
+      "Me llevo este."
+    ]
+  },
+  "15": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "Una mesa para cinco, por favor."
+      },
+      {
+        "speaker": "Сервис",
+        "text": "Por aquí, por favor."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Gracias."
+      }
+    ],
+    "practice": [
+      "Una mesa para cinco, por favor.",
+      "Por aquí, por favor."
+    ]
+  },
+  "16": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Perdone. Quisiéramos pedir."
+      },
+      {
+        "speaker": "Сервис",
+        "text": "Claro. ¿Qué desean?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Primero, unas tapas."
+      }
+    ],
+    "practice": [
+      "Perdone. Quisiéramos pedir.",
+      "Claro. ¿Qué desean?"
+    ]
+  },
+  "17": {
+    "morning": [
+      {
+        "speaker": "Маркос",
+        "text": "¿Pedimos tortilla?"
+      },
+      {
+        "speaker": "Элена",
+        "text": "Sí, para compartir."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Y también unas croquetas."
+      }
+    ],
+    "practice": [
+      "¿Pedimos tortilla?",
+      "Sí, para compartir.",
+      "Y unas croquetas."
+    ]
+  },
+  "18": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Para mí, una ensalada sin cebolla."
+      },
+      {
+        "speaker": "Сервис",
+        "text": "¿Con queso?"
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, con queso, por favor."
+      }
+    ],
+    "practice": [
+      "Para mí, una ensalada sin cebolla.",
+      "Con queso, por favor."
+    ]
+  },
+  "19": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "¿Nos trae agua, por favor?"
+      },
+      {
+        "speaker": "Сервис",
+        "text": "Claro. ¿Con gas o sin gas?"
+      },
+      {
+        "speaker": "Диего",
+        "text": "Sin gas, gracias."
+      }
+    ],
+    "practice": [
+      "¿Nos trae agua, por favor?",
+      "Sin gas, gracias."
+    ]
+  },
+  "20": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "La tortilla está muy rica."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Y las croquetas también."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Sí, todo está muy bueno."
+      }
+    ],
+    "practice": [
+      "La tortilla está muy rica.",
+      "Las croquetas también.",
+      "Todo está muy bueno."
+    ]
+  },
+  "21": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "La cuenta, cuando pueda."
+      },
+      {
+        "speaker": "Сервис",
+        "text": "Claro. Ahora mismo."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Muchas gracias."
+      }
+    ],
+    "practice": [
+      "La cuenta, cuando pueda.",
+      "Claro. Ahora mismo.",
+      "Muchas gracias."
+    ]
+  },
+  "22": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Voy a comprar el pan."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Yo voy a comprar fruta."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Y yo voy a llevar las bebidas."
+      }
+    ],
+    "practice": [
+      "Voy a comprar el pan.",
+      "Voy a llevar las bebidas."
+    ]
+  },
+  "23": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "Tenemos que preparar la mesa."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Vale. Yo pongo los platos."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Yo llevo los vasos."
+      }
+    ],
+    "practice": [
+      "Tenemos que preparar la mesa.",
+      "Yo pongo los platos."
+    ]
+  },
+  "24": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Hay que llamar a Diego."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. ¿Puedes llamarlo?"
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Claro. Lo llamo ahora."
+      }
+    ],
+    "practice": [
+      "Hay que llamar a Diego.",
+      "¿Puedes llamarlo?",
+      "Lo llamo ahora."
+    ]
+  },
+  "25": {
+    "morning": [
+      {
+        "speaker": "Элена",
+        "text": "Primero cocinamos."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Después preparamos la mesa."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "Y luego cenamos."
+      }
+    ],
+    "practice": [
+      "Primero cocinamos.",
+      "Después preparamos la mesa.",
+      "Luego cenamos."
+    ]
+  },
+  "26": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Adrián, ¿qué vas a hacer?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Voy a cortar el pan."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Yo voy a preparar la ensalada."
+      }
+    ],
+    "practice": [
+      "¿Qué vas a hacer?",
+      "Voy a cortar el pan.",
+      "Voy a preparar la ensalada."
+    ]
+  },
+  "27": {
+    "morning": [
+      {
+        "speaker": "Диего",
+        "text": "¿Qué vais a hacer mañana?"
+      },
+      {
+        "speaker": "Элена",
+        "text": "Vamos a descansar."
+      },
+      {
+        "speaker": "Маркос",
+        "text": "Y vamos a ver una película."
+      }
+    ],
+    "practice": [
+      "¿Qué vais a hacer mañana?",
+      "Vamos a descansar.",
+      "Vamos a ver una película."
+    ]
+  },
+  "28": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Primero preparamos la mesa."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Después vamos a terminar la cena."
+      },
+      {
+        "speaker": "Элена",
+        "text": "Y luego cenamos todos juntos."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Perfecto."
+      }
+    ],
+    "practice": [
+      "Primero preparamos la mesa.",
+      "Después terminamos la cena.",
+      "Luego cenamos todos juntos."
+    ]
+  },
+  "29": {
+    "morning": [
+      {
+        "speaker": "Адриан",
+        "text": "Tengo un proyecto importante en el trabajo."
+      },
+      {
+        "speaker": "Ясмин",
+        "text": "¿De arquitectura?"
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Sí. Tengo que preparar una presentación."
+      }
+    ],
+    "practice": [
+      "Tengo un proyecto importante.",
+      "Tengo que preparar una presentación."
+    ]
+  },
+  "30": {
+    "morning": [
+      {
+        "speaker": "Ясмин",
+        "text": "Puedo ayudarte con la presentación."
+      },
+      {
+        "speaker": "Диего",
+        "text": "Y yo puedo hacer las fotos."
+      },
+      {
+        "speaker": "Адриан",
+        "text": "Gracias. Entonces, trabajamos juntos."
+      },
+      {
+        "speaker": "Элена",
+        "text": "¡Es un buen plan!"
+      }
+    ],
+    "practice": [
+      "Puedo ayudarte con la presentación.",
+      "Puedo hacer las fotos.",
+      "Entonces, trabajamos juntos."
+    ]
+  }
+}

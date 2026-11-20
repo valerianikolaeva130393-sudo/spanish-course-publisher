@@ -50,6 +50,15 @@ const SEASONS = {
 За этот месяц вы научились представлять друзей, сообщать основные факты о человеке, различать качество и временное состояние, говорить об увлечениях и спокойно договариваться о встрече в небольшой компании.
 
 История продолжается: впереди рынок, покупки, небольшие подарки, еда и совместный воскресный план — Сезон 5 «Un fin de semana». 🇪🇸`
+  },
+  5: {
+    lessonsFile: "data/lessons-season5.json",
+    congratsImage: "images/season5/season5-congratulations.jpg",
+    congratsText: `<b>🎉 ¡Felicidades! Сезон 5 завершён.</b>
+
+За этот месяц вы научились уверенно использовать основные конструкции покупок и ресторана: уточнять количество и цену, выбирать одежду, делать заказ и говорить о ближайших совместных действиях.
+
+История продолжается: Ясмин и Диего помогут Адриану с презентацией важного архитектурного проекта — впереди Сезон 6 «El proyecto». 🇪🇸`
   }
 };
 
@@ -131,7 +140,7 @@ function formatLessonText(rawText, slot) {
       output.push(answer);
       continue;
     }
-    const speaker = original.match(/^(👩|👨|🧑‍🍳)\s+(.+)$/u);
+    const speaker = original.match(/^(👩|👨|🧑|🧑‍🍳)\s+(.+)$/u);
     if (speaker) {
       output.push(`${speaker[1]} <b>${escapeHtml(speaker[2])}</b>`);
       dialogueSpeakerActive = true;
