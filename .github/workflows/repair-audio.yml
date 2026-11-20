@@ -7,12 +7,13 @@ on:
         description: "Сезон, аудио которого нужно исправить"
         required: true
         type: choice
-        default: "4"
+        default: "5"
         options:
           - "1"
           - "2"
           - "3"
           - "4"
+          - "5"
 
 permissions:
   contents: write

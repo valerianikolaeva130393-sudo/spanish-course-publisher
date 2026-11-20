@@ -23,6 +23,7 @@ on:
           - "2"
           - "3"
           - "4"
+          - "5"
       day:
         description: "День для morning или practice"
         required: true
